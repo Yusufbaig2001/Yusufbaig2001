@@ -7,7 +7,7 @@ I'm a Mechanical Engineer turned Data Analyst, passionate about using data to op
 - 🔭 I’m currently building my data analytics portfolio at **Fusion Institute, Pune**.
 - 🌱 I’m currently learning **Power BI** and **Generative AI**.
 - 💬 Ask me about **SQL, Python, Manufacturing Operations, or Digital Marketing**.
-- 📫 How to reach me: yusufbaig2001@gmail.com or (https://www.linkedin.com/in/yusuf-baig-783906210/).
+- 📫 How to reach me: yusufbaig2001@gmail.com or [LinkedIn](https://www.linkedin.com/in/yusuf-baig-783906210/).
 
 ### 🛠️ Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
