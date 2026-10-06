@@ -8,7 +8,7 @@ Mechanical Engineer turned Data Analyst, passionate about using data to optimize
 
 ### 🎯 What I'm Working On
 
-- 🔭 Building end-to-end analytics projects (SQL + Power BI + Excel)
+- 🔭 Building end-to-end analytics projects (SQL + Python + Power BI)
 - 🌱 Completing virtual internships (Deloitte, Accenture, Tata, PwC)
 - 🎯 **Seeking Data Analyst roles in Dubai, UAE** — available from November 2026
 - 💬 Ask me about **SQL, Python, Power BI, Manufacturing Operations, or Digital Marketing**
@@ -30,13 +30,13 @@ Mechanical Engineer turned Data Analyst, passionate about using data to optimize
 | Project | Description | Tools |
 |---|---|---|
 | [**UPVC Manufacturing Operations**](https://github.com/Yusufbaig2001/upvc-sql-analysis) | End-to-end analysis of production, revenue, and customer data — includes interactive 3-page Power BI dashboard. | SQL · Power BI · Excel |
-| [**Marketing Campaign ROI**](https://github.com/Yusufbaig2001/marketing-roi-analysis) | Analysis of digital marketing campaigns across Facebook, Instagram, IndiaMART, and Google — CPL, ROAS, and ROI optimization. | SQL · Excel |
+| [**Marketing Campaign ROI**](https://github.com/Yusufbaig2001/marketing-roi-analysis) | Analysis of digital marketing campaigns across 4 platforms — CPL, ROAS, ROI optimization, and interactive Power BI dashboard. | SQL · Power BI · Excel |
 
 ---
 
 ### 💼 Virtual Internships
-
-*Coming soon — Deloitte, Accenture, Tata Group, PwC*
+Deloitte 
+*Coming soon —  Accenture, Tata Group, PwC*
 
 ---
 
