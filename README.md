@@ -29,6 +29,7 @@ Mechanical Engineer turned Data Analyst, passionate about using data to optimize
 
 | Project | Description | Tools |
 |---|---|---|
+| [**E-Commerce Analytics (Olist)**](https://github.com/Yusufbaig2001/ecommerce-analytics-olist) | End-to-end analysis of 100K+ e-commerce orders — includes 3-page Power BI dashboard and 30+ SQL queries. | SQL · Power BI |
 | [**UPVC Manufacturing Operations**](https://github.com/Yusufbaig2001/upvc-sql-analysis) | End-to-end analysis of production, revenue, and customer data — includes interactive 3-page Power BI dashboard. | SQL · Power BI · Excel |
 | [**Marketing Campaign ROI**](https://github.com/Yusufbaig2001/marketing-roi-analysis) | Analysis of digital marketing campaigns across 4 platforms — CPL, ROAS, ROI optimization, and interactive Power BI dashboard. | SQL · Power BI · Excel |
 
