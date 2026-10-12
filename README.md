@@ -2,16 +2,16 @@
 
 ## Data Analyst | SQL · Python · Power BI · Excel
 
-Mechanical Engineer turned Data Analyst, passionate about using data to optimize business operations and drive strategic decisions. Currently building a portfolio of end-to-end analytics projects — from raw SQL to interactive Power BI dashboards.
+Mechanical Engineer turned Data Analyst, passionate about using data to optimize business operations and drive strategic decisions. I've built 3 end-to-end analytics projects — from raw SQL to interactive Power BI dashboards.
 
 ---
 
-### 🎯 What I'm Working On
+### 🎯 Current Focus
 
-- 🔭 Building end-to-end analytics projects (SQL + Python + Power BI)
-- 🌱 Completing virtual internships (Deloitte, Accenture, Tata, PwC)
-- 🎯 **Seeking Data Analyst roles in Dubai, UAE** — available from November 2026
-- 💬 Ask me about **SQL, Python, Power BI, Manufacturing Operations, or Digital Marketing**
+- 🔭 Built 3 portfolio projects (E-Commerce, Manufacturing, Marketing)
+- 🌱 Learning **Generative AI** at Fusion Institute, Pune
+- 🎯 **Seeking Data Analyst roles in Dubai, UAE** 
+- 💬 Ask me about **SQL, Power BI, Excel, Manufacturing Operations, or Digital Marketing**
 
 ---
 
@@ -29,15 +29,16 @@ Mechanical Engineer turned Data Analyst, passionate about using data to optimize
 
 | Project | Description | Tools |
 |---|---|---|
-| [**E-Commerce Analytics (Olist)**](https://github.com/Yusufbaig2001/ecommerce-analytics-olist) | End-to-end analysis of 100K+ e-commerce orders — includes 4-page Power BI dashboard and 30+ SQL queries. | SQL · Power BI |
-| [**UPVC Manufacturing Operations**](https://github.com/Yusufbaig2001/upvc-sql-analysis) | End-to-end analysis of production, revenue, and customer data — includes interactive 3-page Power BI dashboard. | SQL · Power BI · Excel |
-| [**Marketing Campaign ROI**](https://github.com/Yusufbaig2001/marketing-roi-analysis) | Analysis of digital marketing campaigns across 4 platforms — CPL, ROAS, ROI optimization, and interactive Power BI dashboard. | SQL · Power BI · Excel |
+| [**E-Commerce Analytics (Olist)**](https://github.com/Yusufbaig2001/ecommerce-analytics-olist) | End-to-end analysis of 100K+ e-commerce orders across 9 relational tables — 30+ SQL queries and a 4-page Power BI dashboard. | SQL · Power BI |
+| [**UPVC Manufacturing Operations**](https://github.com/Yusufbaig2001/upvc-sql-analysis) | SQL analysis of production, revenue, and customer data for a UPVC manufacturer — includes a 3-page Power BI dashboard. | SQL · Power BI · Excel |
+| [**Marketing Campaign ROI**](https://github.com/Yusufbaig2001/marketing-roi-analysis) | Analysis of digital marketing campaigns across 4 platforms — CPL, ROAS, ROI optimization, and a 3-page Power BI dashboard. | SQL · Power BI · Excel |
 
 ---
 
 ### 💼 Virtual Internships
-Deloitte 
-Tata Group
+
+- ✅ **Deloitte Australia** — Data Analytics Job Simulation (Forage)
+- ✅ **Tata Group** — Data Visualisation Job Simulation (Forage)
 
 ---
 
@@ -52,4 +53,4 @@ Tata Group
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-baig-783906210/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufbaig2001@gmail.com)
 
-📍 Nagpur, India → Relocating to **Dubai, UAE** (November 2026)
+📍 Dubai,UAE
