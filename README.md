@@ -55,7 +55,7 @@ End-to-end analysis of Dubai Land Department transactions.
 Analysis of 100K+ orders from the Brazilian Olist e-commerce dataset.
 
 - Built a MySQL database from **9 tables (~1.5M rows)** and wrote **30+ analysis queries** (joins, CTEs, window functions, fan-out-aware queries).
-- Built a **3-page Power BI dashboard** and a written project report.
+- Built a ***4-page Power BI dashboard** and a written project report.
 - **Key findings:** R$16.01M revenue across 99K orders; only 3% of customers are repeat buyers; late delivery rate is 7.87%, highest in remote northeastern states.
 
 **Tools:** MySQL • Power BI • DAX • Power Query
