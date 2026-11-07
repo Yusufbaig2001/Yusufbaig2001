@@ -1,10 +1,23 @@
 # Hi, I'm Yusuf Baig 👋
 
-### Aspiring Data Analyst | SQL • Python • Power BI • Excel
+### Data Analyst (Entry-Level) | SQL • Python • Power BI • Excel
 
-Mechanical Engineering graduate transitioning into Data Analytics. I enjoy working with datasets, exploring business questions, and presenting findings through SQL analysis and interactive dashboards.
+Mechanical Engineering graduate with 2+ years of hands-on experience in production and marketing operations at a UPVC manufacturing business, now working as a data analyst. I turn raw data into clear business answers using SQL and interactive Power BI dashboards.
 
-🎯 **Currently seeking entry-level Data Analyst opportunities in Dubai, UAE.**
+📍 **Based in Dubai, UAE** | 🎯 **Open to entry-level Data Analyst roles**
+
+---
+
+## 💼 Experience
+
+**Production & Marketing Operations: Imperium Enterprises (UPVC Windows & Doors Manufacturing), Nagpur**
+*Jan 2024 – Jun 2026*
+
+- Managed the production lifecycle for UPVC windows and doors, from order specifications through on-site installation.
+- Analysed production data to identify bottlenecks and support workflow and turnaround time improvements.
+- Ran and monitored campaigns across Facebook, Instagram, IndiaMART, and Justdial; tracked leads and optimised ad spend.
+- Used campaign and operational insights to support cost-per-acquisition reduction and process-improvement decisions.
+- Worked with order, customer, and campaign data to support business decisions. This experience shaped the business questions in my UPVC and Marketing ROI projects below.
 
 ---
 
@@ -12,9 +25,9 @@ Mechanical Engineering graduate transitioning into Data Analytics. I enjoy worki
 
 - **SQL:** MySQL, Joins, CTEs, Window Functions, Subqueries, Aggregations
 - **Python:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis
-- **Visualization:** Power BI, DAX, Dashboard Development
-- **Microsoft Excel:** Data Cleaning, Formulas, Pivot Tables, Data Analysis
-- **AI-assisted analytics:** Using AI tools to support research, coding, documentation, and analytical workflows
+- **Visualization:** Power BI, DAX, Power Query, Dashboard Development
+- **Microsoft Excel:** Data Cleaning, Formulas, Pivot Tables, Reporting
+- **AI-assisted analytics:** ChatGPT and Claude for debugging, query review, and documentation
 
 ---
 
@@ -23,78 +36,86 @@ Mechanical Engineering graduate transitioning into Data Analytics. I enjoy worki
 ### 1. Dubai Real Estate Analytics
 [View Project](https://github.com/Yusufbaig2001/dubai-real-estate-analytics)
 
-Analysis of Dubai property transactions using a large historical dataset.
+[<img src="https://github.com/Yusufbaig2001/dubai-real-estate-analytics/raw/main/PowerBI/screenshots/page1_market_overview.png" width="600">](https://github.com/Yusufbaig2001/dubai-real-estate-analytics)
 
-- Cleaned and prepared a dataset of over 1 million raw records.
-- Used Python for data preparation and exploratory analysis.
-- Developed SQL queries to investigate transaction trends and property metrics.
-- Created a multi-page Power BI dashboard.
+End-to-end analysis of Dubai Land Department transactions.
 
-**Tools:** Python • MySQL • Power BI
+- Profiled and cleaned **1M+ raw records** in Python, narrowing to **286K transactions (2020–2023)**.
+- Wrote **20 SQL queries** covering market overview, area analysis, time trends, and window functions.
+- Built a **4-page Power BI dashboard** with DAX measures.
+- **Key findings:** apartments make up 72% of transactions; properties with parking show a 52% higher price per sqm; 53% of transactions fall in the AED 500K–2M range.
 
-### 2. E-Commerce Analytics — Olist
+**Tools:** Python • MySQL • Power BI • DAX
+
+### 2. E-Commerce Analytics: Olist
 [View Project](https://github.com/Yusufbaig2001/ecommerce-analytics-olist)
 
-Exploration of an e-commerce dataset covering orders, customers, payments, products, and sellers.
+[<img src="https://github.com/Yusufbaig2001/ecommerce-analytics-olist/raw/main/powerbi_dashboard/page1_executive.png" width="600">](https://github.com/Yusufbaig2001/ecommerce-analytics-olist)
 
-- Analysed relational data across multiple tables.
-- Investigated customer behaviour, order performance, and seller metrics.
-- Used SQL joins, aggregations, CTEs, and window functions.
-- Presented findings through Power BI dashboards.
+Analysis of 100K+ orders from the Brazilian Olist e-commerce dataset.
 
-**Tools:** SQL • MySQL • Power BI
+- Built a MySQL database from **9 tables (~1.5M rows)** and wrote **30+ analysis queries** (joins, CTEs, window functions, fan-out-aware queries).
+- Built a **3-page Power BI dashboard** and a written project report.
+- **Key findings:** R$16.01M revenue across 99K orders; only 3% of customers are repeat buyers; late delivery rate is 7.87%, highest in remote northeastern states.
+
+**Tools:** MySQL • Power BI • DAX • Power Query
 
 ### 3. Dubai Airbnb Analytics
 [View Project](https://github.com/Yusufbaig2001/Dubai-Airbnb-Analytics)
 
-Analysis of Dubai's short-term rental market.
+[<img src="https://github.com/Yusufbaig2001/Dubai-Airbnb-Analytics/raw/main/page1_executive.png" width="600">](https://github.com/Yusufbaig2001/Dubai-Airbnb-Analytics)
 
-- Explored listing characteristics and pricing patterns.
-- Worked with SQL queries to investigate market trends.
-- Used Python and Power BI as part of the analytical workflow.
+Analysis of Dubai's short-term rental market: pricing, hosts, and property types.
 
-**Tools:** Python • SQL • Power BI
+- Cleaned listings data in Python (missing values, dates, outlier capping).
+- Wrote **15 SQL queries** using CTEs and window functions, and built a **2-page Power BI dashboard**.
+- Found that the neighbourhood column was missing for 63% of listings and redesigned the analysis around coordinates and property type.
+- **Key findings:** regular hosts generate more total revenue than Superhosts (26.4M vs 14.1M) due to volume; 4–5 bedroom listings reach the highest daily rate, above AED 1,000.
 
-### 4. Marketing Campaign Analytics
+**Tools:** Python • MySQL • Power BI
+
+### 4. Marketing Campaign ROI Analysis
 [View Project](https://github.com/Yusufbaig2001/marketing-roi-analysis)
 
-Analysis of marketing campaign performance across multiple digital platforms.
+[<img src="https://github.com/Yusufbaig2001/marketing-roi-analysis/raw/main/powerbi_dashboard/page1_campaigns.png" width="600">](https://github.com/Yusufbaig2001/marketing-roi-analysis)
 
-- Evaluated advertising spend, leads, conversions, and revenue.
-- Compared campaign performance using CPL and ROAS.
-- Used SQL for campaign-level and platform-level analysis.
-- Documented dashboard metrics and analytical findings.
+Platform-level ROI analysis of digital campaigns across Facebook, Instagram, IndiaMART, and Google, built on a sample campaign dataset.
 
-**Tools:** SQL • MySQL • Power BI • Excel
+- Calculated CPL, CPA, ROAS, ROI %, CTR, and lead-to-conversion rate with **10 SQL queries**.
+- Built a **3-page Power BI dashboard** with funnel analysis and budget recommendations.
+- **Key findings:** IndiaMART delivered the highest ROAS; Instagram had the highest CTR but weaker revenue conversion; Google generated high lead volume with lower lead quality.
 
-### 5. UPVC Sales & Customer Analytics
+**Tools:** MySQL • Power BI • Excel
+
+### 5. UPVC Manufacturing Operations Analysis
 [View Project](https://github.com/Yusufbaig2001/upvc-sql-analysis)
 
-A sample business dataset used to explore sales orders, customer segments, product categories, and order statuses.
+[<img src="https://github.com/Yusufbaig2001/upvc-sql-analysis/raw/main/powerbi_dashboard/page1_executive.png" width="600">](https://github.com/Yusufbaig2001/upvc-sql-analysis)
 
-- Analysed recorded order values and order status.
-- Explored customer and city-level performance.
-- Used SQL queries for business analysis.
-- Created a three-page Power BI dashboard.
+Sales, customer, and product analysis for a UPVC windows and doors manufacturer, built on a sample dataset.
 
-**Tools:** SQL • MySQL • Power BI
+- Analysed revenue trends, customer segments (VIP / Regular / Occasional), product mix, and city-level rankings using CTEs and window functions.
+- Built a **3-page Power BI dashboard**.
+- **Key findings:** windows generate about 70% of revenue; Builders are the top-revenue customer segment; Facebook had the lowest cost per lead while IndiaMART brought the most leads.
+
+**Tools:** MySQL • Power BI • Excel
 
 ---
 
 ## 🎓 Certifications & Job Simulations
 
-- Deloitte Australia — Data Analytics Job Simulation (Forage)
-- Tata Group — Data Visualisation Job Simulation (Forage)
-- Tata Group — GenAI Powered Data Analytics Job Simulation (Forage)
+- Deloitte Australia: Data Analytics Job Simulation (Forage)
+- Tata Group: Data Visualisation Job Simulation (Forage)
+- Tata Group: GenAI Powered Data Analytics Job Simulation (Forage)
 
 ---
 
 ## 📚 Currently Learning
 
-- Strengthening SQL problem-solving and interview skills
-- Improving Python for data analysis
-- Developing Power BI dashboard and DAX skills
-- Learning to use AI tools effectively in data analytics workflows
+- Advanced SQL problem-solving and interview practice
+- Python for data analysis
+- Power BI and DAX
+- Using AI tools effectively in analytics workflows
 
 ---
 
@@ -104,8 +125,6 @@ A sample business dataset used to explore sales orders, customer segments, produ
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yusufbaig2001@gmail.com)
 
-📍 Open to entry-level Data Analyst opportunities in Dubai, UAE.
-
 ---
 
-*Note: AI tools were used to assist with parts of some portfolio projects, including SQL development and documentation. I am actively strengthening my understanding of the queries, analytical methods, and tools used in these projects so I can explain and discuss my work confidently.*
+*Note: I use AI tools (ChatGPT, Claude) as a productivity aid for SQL debugging, query review, and documentation. I review and validate the output, and I'm happy to walk through the queries and methods in any project.*
